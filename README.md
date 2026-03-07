@@ -66,25 +66,19 @@ Tourism mobile app built with **Flutter + Firebase** that helps users explore to
 
 
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=banti898\&show_icons=true\&theme=tokyonight)
-
-
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=banti898)
 
 
 
-## 💻 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=banti898\&layout=compact)
 
 ## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/banti898/banti898/blob/output/github-contribution-grid-snake.svg)
+
+
+
 
 ## 📬 Contact Me
 
@@ -101,6 +95,7 @@ Tourism mobile app built with **Flutter + Firebase** that helps users explore to
 <img src="https://img.icons8.com/ios-glyphs/48/github.png" width="40"/>
 </a>
 </p>
+
 
 
 ## ⚡ Fun Fact
