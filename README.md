@@ -68,19 +68,19 @@ Tourism mobile app built with **Flutter + Firebase** that helps users explore to
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=banti898\&show_icons=true\&theme=tokyonight)
 
 
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)
+![GitHub Streak](https://streak-stats.demolab.com/?user=banti898)
 
 
 
 ## 💻 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=banti898\&layout=compact)
 
 
 
