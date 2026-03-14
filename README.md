@@ -87,7 +87,7 @@ Tourism mobile app built with **Flutter + Firebase** that helps users explore to
 <img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
 </a>
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bitbanti/">
+<a href="https://www.linkedin.com/in/bitbanti/">
 <img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
 </a>
 
