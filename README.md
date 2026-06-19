@@ -1,20 +1,20 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Banti+Kumar;Flutter+Developer;Spring+Boot+Backend+Developer;AI+App+Builder;Always+Learning+New+Tech" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Banti+Kumar;Full+Stack+Web+Developer;Spring+Boot+Backend+Developer;AI+Web+Builder;Always+Learning+New+Tech" />
 </p>
 
 
 
 # 👋 Hello, I'm Banti Kumar
 
-💻 Flutter Developer | ⚙️ Spring Boot Backend Developer | 🚀 Tech Enthusiast
+💻 Full Stack Web Developer | ⚙️ Spring Boot Backend Developer | 🚀 Tech Enthusiast
 
 
 
 ## 🔥 About Me
 
-I am a **B.Tech Computer Science Engineering student (2023–2027)** at **Shridhar University**.
+I am a **B.Tech Computer Science Engineering student (2023–2027)** at **Shridhar University** Pilani Rajasthan.
 
-I enjoy building **mobile applications using Flutter** and developing **scalable backend systems using Spring Boot**.
+I enjoy building **Website Using React.js** and developing **scalable backend systems using Spring Boot**.
 
 I am passionate about **learning modern technologies and solving real-world problems through software development**.
 
@@ -26,7 +26,7 @@ I am passionate about **learning modern technologies and solving real-world prob
 
 ## 🚀 Current Focus
 
-• Building **Mobile Apps using Flutter**
+• Building **Website Using React**
 • Developing **Backend APIs with Spring Boot**
 • Exploring **AI based Applications**
 • Improving **Problem Solving Skills**
@@ -35,21 +35,21 @@ I am passionate about **learning modern technologies and solving real-world prob
 
 ## 🛠 Tech Stack
 
-### 📱 Mobile Development
+### 📱 Web Development
 
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
+<img src="https://skillicons.dev/icons?i=react,javascript" />
 
 ### ⚙️ Backend Development
 
-<img src="https://skillicons.dev/icons?i=java,spring,firebase" />
+<img src="https://skillicons.dev/icons?i=java,springboot" />
 
 ### 🗄 Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 
 ### 🧰 Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,androidstudio" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 
 
 
