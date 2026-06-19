@@ -100,7 +100,7 @@ Tourism mobile app built with **Flutter + Firebase** that helps users explore to
 
 ## ⚡ Fun Fact
 
-I love building apps that solve **real-world problems** and continuously learning new technologies 🚀
+I love building Website that solve **real-world problems** and continuously learning new technologies 🚀
 
 
 
