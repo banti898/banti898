@@ -41,7 +41,7 @@ I am passionate about **learning modern technologies and solving real-world prob
 
 ### ⚙️ Backend Development
 
-<img src="https://skillicons.dev/icons?i=java,spring-boot" />
+<img src="https://skillicons.dev/icons?i=java,spring" />
 
 ### 🗄 Databases
 
